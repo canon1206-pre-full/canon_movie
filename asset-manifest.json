@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/canon_movie/static/css/main.c3536d10.chunk.css",
+    "main.css": "/canon_movie/static/css/main.1e10f52f.chunk.css",
     "main.js": "/canon_movie/static/js/main.1182907b.chunk.js",
     "main.js.map": "/canon_movie/static/js/main.1182907b.chunk.js.map",
     "runtime-main.js": "/canon_movie/static/js/runtime-main.2699c0bd.js",
@@ -8,13 +8,13 @@
     "static/js/2.2358987f.chunk.js": "/canon_movie/static/js/2.2358987f.chunk.js",
     "static/js/2.2358987f.chunk.js.map": "/canon_movie/static/js/2.2358987f.chunk.js.map",
     "index.html": "/canon_movie/index.html",
-    "static/css/main.c3536d10.chunk.css.map": "/canon_movie/static/css/main.c3536d10.chunk.css.map",
+    "static/css/main.1e10f52f.chunk.css.map": "/canon_movie/static/css/main.1e10f52f.chunk.css.map",
     "static/js/2.2358987f.chunk.js.LICENSE.txt": "/canon_movie/static/js/2.2358987f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2699c0bd.js",
     "static/js/2.2358987f.chunk.js",
-    "static/css/main.c3536d10.chunk.css",
+    "static/css/main.1e10f52f.chunk.css",
     "static/js/main.1182907b.chunk.js"
   ]
 }
